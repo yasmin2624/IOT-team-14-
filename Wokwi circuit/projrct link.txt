@@ -1,0 +1,14 @@
+
+ESP32 Project links : https://wokwi.com/projects/440549961717403649  
+
+Servo → (VCC=5V, GND=GND, SIG=GPIO18)
+
+LCD I2C → (VCC=5V, GND=GND, SDA=21, SCL=22)
+
+Potentiometer → (VCC=3.3V, GND=GND, OUT=GPIO34)
+
+Pushbutton 1 (RFID alternative) → (GPIO23 ↔️ GND)
+
+Pushbutton 2 (Magnetic Alternative) → (GPIO19 ↔️ GND)
+
+
