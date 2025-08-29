@@ -308,7 +308,7 @@ export default function Dashboard() {
         {/* Header */}
         <div className="flex justify-between items-center mb-8">
           <h1 className="text-3xl font-bold text-gray-800">
-            Welcome, <span className="text-blue-600">team 14</span>
+            Welcome, <span className="text-blue-600">{userName}</span>
           </h1>
         </div>
 
